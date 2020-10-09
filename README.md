@@ -14,4 +14,10 @@ Virtualbox
 
 900+ GB HDD
 
+## To Be Done
+
+pfSense authenticator on AD DC
+Implement startup scripts on AD DC
+TBA
+
 
