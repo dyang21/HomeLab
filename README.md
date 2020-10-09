@@ -9,7 +9,9 @@ Virtualbox
 
 ## Hardware
 8 GB of RAM
+
 4 CPU cores
+
 900+ GB HDD
 
 
