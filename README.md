@@ -22,7 +22,6 @@ pfSense authenticator on AD DC
 
 Implement startup scripts on AD DC
 
-Implement private VPN
 
 TBA
 
