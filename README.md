@@ -9,20 +9,5 @@ This is virtualized entirely on my laptop. It can run around 3 vms without overl
 
 Virtualbox
 
-## Hardware
-8 GB of RAM
-
-4 CPU cores
-
-900+ GB HDD
-
-## To Be Done
-
-pfSense authenticator on AD DC
-
-Implement startup scripts on AD DC
-
-
-TBA
-
++ Pi-Hole added around 08/21
 
